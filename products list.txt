@@ -1,0 +1,5 @@
+products :
+"iphone","lg","blackberry","hp","apple","samsung","google","htc","microsoft","laptop","camera","watch","computer","hardware","software",book","apparel","game","video","health","beauty","electronics","music","office","flower","shoes","footwear","ipod","sunglasses","gift","kids","baby","accessories","hair","gps","gamecube","oprah","blu ray","HDTV","coffee maker","Windows","Photoshop","Xbox","Harry Potter","Nikon","Cuisinart","Bose","Canon","Wii",
+"player","home","McAfee","Kindle","WebKinz","Lego","Barbie","yoga","Pilates","Webcam","Calphalon","cookbook","MP3","cellphone","printer","pocket","Transformers","food processor","NASCAR","radar detector","Powershot","Linksys","Lexmark","Vaio","Coolpix",
+"gas grill"","adobe","toy","tool","garden","goods","sports",
+

@@ -1,0 +1,114 @@
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px;
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+quote {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+SMALL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND: #777; COLOR: white; FONT-SIZE: 13px
+}
+#gallery {
+	POSITION: relative; WIDTH: 100%; HEIGHT: 580px
+}
+.pic {
+	WIDTH: 100px; HEIGHT: 100px; OVERFLOW: hidden
+}
+.pic A {
+	WIDTH: 100px; HEIGHT: 100px; OVERFLOW: hidden
+}
+.pic {
+	BORDER-BOTTOM: #eeeeee 18px solid; POSITION: absolute; BORDER-LEFT: #eeeeee 5px solid; BORDER-TOP: #eeeeee 5px solid; BORDER-RIGHT: #eeeeee 5px solid; -moz-box-shadow: 2px 2px 3px #333333; -webkit-box-shadow: 2px 2px 3px #333333; box-shadow: 2px 2px 3px #333333
+}
+.pic A {
+	TEXT-INDENT: -999px; DISPLAY: block
+}
+.drop-box {
+	Z-INDEX: -1; POSITION: absolute; WIDTH: 240px; BOTTOM: 0px; BACKGROUND: url(img/drop_box.png) no-repeat; HEIGHT: 130px; RIGHT: 0px
+}
+.active.drop-box {
+	BACKGROUND-POSITION: left bottom
+}
+LABEL {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-TOP: 3px
+}
+INPUT {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; PADDING-TOP: 3px
+}
+LABEL {
+	FONT-SIZE: 10px
+}
+FIELDSET {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; MARGIN-TOP: 10px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+#url {
+	WIDTH: 240px
+}
+H1 {
+	FONT-FAMILY: "MyRiad Pro", Arial, Helvetica, sans-serif; COLOR: white; FONT-SIZE: 38px; FONT-WEIGHT: normal
+}
+H2 {
+	TEXT-TRANSFORM: uppercase; MARGIN: 10px 0px 25px; PADDING-LEFT: 2px; FONT-FAMILY: "MyRiad Pro", "Arial Narrow", Arial, Helvetica, sans-serif; WHITE-SPACE: nowrap; LETTER-SPACING: 1px; FONT-SIZE: 16px; FONT-WEIGHT: normal
+}
+#orig {
+	PADDING-BOTTOM: 15px; TEXT-TRANSFORM: uppercase; FONT-FAMILY: "MyRiad Pro", Arial; FLOAT: right; LETTER-SPACING: 1px; FONT-SIZE: 10px
+}
+HR {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BACKGROUND-COLOR: #bbbbbb; MARGIN: 30px auto; WIDTH: 450px; HEIGHT: 1px; COLOR: #bbbbbb; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.clear {
+	CLEAR: both
+}
+#main {
+	MARGIN: 30px auto; WIDTH: 780px
+}
+A IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #00bbff; TEXT-DECORATION: none
+}
+A:visited {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #00bbff; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+.tutorial-info {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px; MARGIN-TOP: 70px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}

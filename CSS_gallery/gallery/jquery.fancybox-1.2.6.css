@@ -1,0 +1,120 @@
+DIV#fancy_overlay {
+	Z-INDEX: 30; POSITION: fixed; WIDTH: 100%; DISPLAY: none; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+DIV#fancy_loading {
+	Z-INDEX: 100; POSITION: absolute; WIDTH: 40px; DISPLAY: none; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 40px; OVERFLOW: hidden; CURSOR: pointer
+}
+DIV#fancy_loading DIV {
+	POSITION: absolute; WIDTH: 40px; BACKGROUND: url(fancy_progress.png) no-repeat; HEIGHT: 480px; TOP: 0px; LEFT: 0px
+}
+DIV#fancy_outer {
+	Z-INDEX: 90; POSITION: absolute; PADDING-BOTTOM: 40px; MARGIN: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; DISPLAY: none; BACKGROUND: none transparent scroll repeat 0% 0%; TOP: 0px; PADDING-TOP: 20px; LEFT: 0px
+}
+DIV#fancy_inner {
+	POSITION: relative; WIDTH: 100%; BACKGROUND: #000; HEIGHT: 100%
+}
+DIV#fancy_content {
+	Z-INDEX: 100; POSITION: absolute; MARGIN: 0px
+}
+DIV#fancy_div {
+	Z-INDEX: 100; WIDTH: 100%; BACKGROUND: #000; HEIGHT: 100%; COLOR: #fff
+}
+IMG#fancy_img {
+	Z-INDEX: 100; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+DIV#fancy_close {
+	Z-INDEX: 181; POSITION: absolute; WIDTH: 30px; DISPLAY: none; BACKGROUND: url(fancy_closebox.png) no-repeat left top; HEIGHT: 30px; TOP: -12px; CURSOR: pointer; RIGHT: -15px
+}
+#fancy_frame {
+	POSITION: relative; WIDTH: 100%; DISPLAY: none; HEIGHT: 100%
+}
+#fancy_ajax {
+	WIDTH: 100%; HEIGHT: 100%; OVERFLOW: auto
+}
+A#fancy_left {
+	BACKGROUND-IMAGE: url(data:image/gif;base64,AAAA); Z-INDEX: 111; POSITION: absolute; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; HEIGHT: 100%; OVERFLOW: hidden; CURSOR: pointer
+}
+A#fancy_right {
+	BACKGROUND-IMAGE: url(data:image/gif;base64,AAAA); Z-INDEX: 111; POSITION: absolute; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 35%; BOTTOM: 0px; DISPLAY: none; HEIGHT: 100%; OVERFLOW: hidden; CURSOR: pointer
+}
+A#fancy_left {
+	LEFT: 0px
+}
+A#fancy_right {
+	RIGHT: 0px
+}
+SPAN.fancy_ico {
+	Z-INDEX: 112; POSITION: absolute; MARGIN-TOP: -15px; WIDTH: 30px; DISPLAY: block; HEIGHT: 30px; TOP: 50%; CURSOR: pointer
+}
+SPAN#fancy_left_ico {
+	BACKGROUND: url(fancy_left.png) no-repeat; LEFT: -9999px
+}
+SPAN#fancy_right_ico {
+	BACKGROUND: url(fancy_right.png) no-repeat; RIGHT: -9999px
+}
+A#fancy_left:hover {
+	BACKGROUND-COLOR: transparent; VISIBILITY: visible
+}
+A#fancy_right:hover {
+	BACKGROUND-COLOR: transparent; VISIBILITY: visible
+}
+A#fancy_left:hover SPAN {
+	LEFT: 20px
+}
+A#fancy_right:hover SPAN {
+	RIGHT: 20px
+}
+#fancy_bigIframe {
+	POSITION: absolute; WIDTH: 100%; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+DIV#fancy_bg {
+	Z-INDEX: 70; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+DIV.fancy_bg {
+	Z-INDEX: 70; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV#fancy_bg_n {
+	WIDTH: 100%; BACKGROUND: url(fancy_shadow_n.png) repeat-x; HEIGHT: 20px; TOP: -20px; LEFT: 0px
+}
+DIV#fancy_bg_ne {
+	WIDTH: 20px; BACKGROUND: url(fancy_shadow_ne.png) no-repeat; HEIGHT: 20px; TOP: -20px; RIGHT: -20px
+}
+DIV#fancy_bg_e {
+	WIDTH: 20px; BACKGROUND: url(fancy_shadow_e.png) repeat-y; HEIGHT: 100%; RIGHT: -20px
+}
+DIV#fancy_bg_se {
+	WIDTH: 20px; BOTTOM: -20px; BACKGROUND: url(fancy_shadow_se.png) no-repeat; HEIGHT: 20px; RIGHT: -20px
+}
+DIV#fancy_bg_s {
+	WIDTH: 100%; BOTTOM: -20px; BACKGROUND: url(fancy_shadow_s.png) repeat-x; HEIGHT: 20px; LEFT: 0px
+}
+DIV#fancy_bg_sw {
+	WIDTH: 20px; BOTTOM: -20px; BACKGROUND: url(fancy_shadow_sw.png) no-repeat; HEIGHT: 20px; LEFT: -20px
+}
+DIV#fancy_bg_w {
+	WIDTH: 20px; BACKGROUND: url(fancy_shadow_w.png) repeat-y; HEIGHT: 100%; LEFT: -20px
+}
+DIV#fancy_bg_nw {
+	WIDTH: 20px; BACKGROUND: url(fancy_shadow_nw.png) no-repeat; HEIGHT: 20px; TOP: -20px; LEFT: -20px
+}
+DIV#fancy_title {
+	Z-INDEX: 100; POSITION: absolute; DISPLAY: none
+}
+DIV#fancy_title DIV {
+	PADDING-BOTTOM: 3px; FONT: bold 12px Arial; WHITE-SPACE: nowrap; COLOR: #fff
+}
+DIV#fancy_title TABLE {
+	MARGIN: 0px auto
+}
+DIV#fancy_title TABLE TD {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+TD#fancy_title_left {
+	WIDTH: 15px; BACKGROUND: url(fancy_title_left.png) repeat-x; HEIGHT: 32px
+}
+TD#fancy_title_main {
+	BACKGROUND: url(fancy_title_main.png) repeat-x; HEIGHT: 32px
+}
+TD#fancy_title_right {
+	WIDTH: 15px; BACKGROUND: url(fancy_title_right.png) repeat-x; HEIGHT: 32px
+}

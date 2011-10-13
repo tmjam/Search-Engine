@@ -1,0 +1,101 @@
+/* CSS file */
+TabNavigator
+{
+	lastTabStyleName: tabNavigatorLastTab;
+	firstTabStyleName: tabNavigatorFirstTab;
+}
+Panel
+{
+	borderColor: #0C84A7;
+	titleStyleName: panelTitle;
+	controlBarStyleName: panelControlBar;
+	roundedBottomCorners: true;
+	cornerRadius: 7;
+	color: #000000;
+	backgroundColor: #DCF695;
+}
+Accordion
+{
+	borderStyle: outset;
+	backgroundColor: #D1F4CE;
+	fontFamily: Calibri;
+	fontSize: 12;
+	headerStyleName: accordionHeader;
+}
+ApplicationControlBar
+{
+	horizontalGap: 10;
+	paddingLeft: 12;
+	paddingRight: 12;
+	paddingTop: 12;
+	paddingBottom: 12;
+}
+.panelTitle
+{
+	fontFamily: "Book Antiqua";
+	fontSize: 18;
+}
+@font-face
+{
+	fontFamily: "AR BERKLEY";
+	fontWeight: normal;
+	fontStyle: normal;
+	src: local("AR BERKLEY");
+}
+.panelControlBar
+{
+	fontFamily: Calibri;
+	color: #DDF0F4;
+	fontSize: 17;
+}
+@font-face
+{
+	fontFamily: "AR CENA";
+	fontWeight: normal;
+	fontStyle: normal;
+	src: local("AR CENA");
+}
+@font-face
+{
+	fontFamily: "Book Antiqua";
+	fontWeight: normal;
+	fontStyle: normal;
+	src: local("Book Antiqua");
+}
+@font-face
+{
+	fontFamily: Balthazar;
+	fontWeight: normal;
+	fontStyle: normal;
+	src: local("Balthazar");
+}
+.accordionHeader
+{
+	fontSize: 12;
+	leading: 11;
+	paddingLeft: 5;
+	paddingRight: 5;
+	paddingTop: 5;
+	paddingBottom: 5;
+	horizontalGap: 8;
+	borderColor: #000000;
+	themeColor: #B1DDF3;
+}
+.tabNavigatorLastTab
+{
+}
+.tabNavigatorFirstTab
+{
+	fontSize: 10;
+	paddingLeft: 20;
+	paddingTop: 10;
+	paddingRight: 20;
+	paddingBottom: 10;
+}
+@font-face
+{
+	fontFamily: Calibri;
+	fontWeight: normal;
+	fontStyle: normal;
+	src: local("Calibri");
+}

@@ -1,0 +1,56 @@
+/* 
+    Document   : animated-menu
+    Created on : Nov 20, 2010, 2:27:27 PM
+    Author     : tauseef
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+body{
+    font-family:"Lucida Grande", arial, sans-serif;
+
+}
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+li{
+    width:148px;
+    height:50px;
+    float:left;
+    color:#191919;
+    text-align:center;
+    overflow:hidden;
+	
+}
+
+a{
+    color:#FFF;
+    text-decoration:none;
+}
+
+p{
+    padding:0px 5px;
+}
+
+    .subtext{
+        padding-top:15px;
+		position: static;
+    }
+
+/*Menu Color Classes*/
+.green{background:#0292C0;}
+.yellow{background:#0292C0;}
+.red{background:#0292C0;}
+.purple{background:#0292C0;}
+.blue{background:#0292C0;}
+.new{
+	width:auto;
+	
+}
